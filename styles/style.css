@@ -15,6 +15,7 @@ nav a:hover {
     object-fit: cover;
     object-position: 0 30%;
     height: 65vh;
+    
 }
 
 .redes-sociais span{
@@ -31,3 +32,40 @@ nav a:hover {
     font-weight: 500;
 }
 
+.habilidades i {
+    font-size: 1.6rem;
+    text-align: center;     
+}
+
+.tamanho-card {
+    width: 18rem;
+}
+
+.imagem-cards {
+    object-fit: cover;
+    object-position: top;
+    height: 40vh;
+
+}
+
+footer{
+    background-color: #7e459b;
+    
+}
+
+footer >small> span > a{
+    color: rgb(253, 148, 253);
+    
+}
+
+footer >small> span > a:hover{
+color:#b162d8;
+}
+
+.btn {
+    border: none;
+}
+
+.btn:hover{
+    background-color:#b162d8;
+}
